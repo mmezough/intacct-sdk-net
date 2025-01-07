@@ -65,6 +65,8 @@ namespace Intacct.SDK.Functions.AccountsPayable
 
         public string WarehouseId;
 
+        public List<AbstractBillLineTaxEntries> Taxentry = new List<AbstractBillLineTaxEntries>();
+
         public Dictionary<string, dynamic> CustomFields = new Dictionary<string, dynamic>();
 
         protected AbstractBillLine()
