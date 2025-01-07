@@ -14,6 +14,7 @@
  */
 
 using System.Collections.Generic;
+using Intacct.SDK.Functions.AccountsReceivable;
 using Intacct.SDK.Xml;
 
 namespace Intacct.SDK.Functions.AccountsPayable

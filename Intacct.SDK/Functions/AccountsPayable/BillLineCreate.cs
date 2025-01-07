@@ -13,6 +13,7 @@
  * permissions and limitations under the License.
  */
 
+using Intacct.SDK.Functions.AccountsReceivable;
 using Intacct.SDK.Xml;
 
 namespace Intacct.SDK.Functions.AccountsPayable
